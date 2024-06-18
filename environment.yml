@@ -1,0 +1,9 @@
+name: automation
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - selenium
+  - python-dotenv
+prefix: /Users/anmolarora/Documents/Projects_MS/Projects/LinkedBot
